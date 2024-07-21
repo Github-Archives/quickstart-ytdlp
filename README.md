@@ -7,4 +7,4 @@ Work on project within a `(venv)`, or other Python Virtual Env. To "containerize
 - If no `downloads` directory exists, the script will auto-create
 
 ### Other `ydl_opts` Options can be found below
-https://github.com/yt-dlp/yt-dlp/blob/master/yt_dlp/options.py#L142
+[Options → ydl_opts](https://github.com/yt-dlp/yt-dlp/blob/master/yt_dlp/options.py#L142)
